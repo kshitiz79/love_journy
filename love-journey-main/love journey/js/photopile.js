@@ -10,7 +10,7 @@ function PhotoPile(options){
 
         return original;
 
-    }; // fetching
+    }; // fetch
 
     var config, defaultOptions = {
         // Thumbnails
